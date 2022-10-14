@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uğur Can Yazıcıoğlu</h1>
+<h1 align="center">Hi 👋, I'm Uğur Can</h1>
 <h3 align="center">Software Developer | Back End Developer | .NET | .NET Core</h3>
 
 📫 How to reach me **ucyoglu@gmail.com**
