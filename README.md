@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uğur Can Yazıcıoğlu</h1>
 <h3 align="center">Software Developer | Back End Developer | .NET | .NET Core</h3>
 
-- 📫 How to reach me **ucyoglu@gmail.com**
+📫 How to reach me **ucyoglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
