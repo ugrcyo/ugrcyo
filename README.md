@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uğur Can</h1>
 <h3 align="center">Software Developer | Back End Developer | .NET | .NET Core</h3>
 
-📫 How to reach me **ucyoglu@gmail.com**
+📫 How to reach me **ugur.dev@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +26,11 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
 </p> 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugrcyo&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugrcyo&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=ugrcyo)  
   
 
 
